@@ -1,0 +1,5 @@
+Producer : https://github.com/callMeAniket/producer-kafka
+
+Consumer : https://github.com/callMeAniket/kafkaConsumer
+
+I used docker compose file to run kafka
